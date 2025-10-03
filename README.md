@@ -1,3 +1,9 @@
+# Run cpp programs
+
+```shell
+g++-15 -std=c++17 -O2 -Wall -Wextra pe_19.cpp -o main && ./main
+```
+
 ### Project Euler Solutions (ideas → solutions)
 
 - Problem 8 (`project_euler_8.cpp`)
